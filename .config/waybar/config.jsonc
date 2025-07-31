@@ -87,7 +87,7 @@
   "custom/weather": {
     "exec": "${HOME}/.config/waybar/scripts/get_weather.sh Paris+France",
     "return-type": "json",
-    "format": "{text}",
+    "format": "{icon} {text}",
     "tooltip": true,
     "interval": 3600
   }

@@ -1,7 +1,7 @@
 @import url("/home/raph/.cache/wal/colors-waybar.css");
 
 * {
-    font-family: 'Radio Canada Big', sans-serif;
+    font-family: 'MesloGS', 'Radio Canada Big', sans-serif;
     font-weight: bold;
     font-size: 16px;
     border-radius: 10px;
@@ -73,7 +73,7 @@ window#waybar {
 }
 
 #custom-media {
-    color: @color4; /* color2 */
+    color: @color6; /* color2 */
     background-color: @background; /* background */
     margin: 0 0px 0 15px;
     padding: 0 15px 0 15px; /* top, right, bottom, left */
